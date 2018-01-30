@@ -3,6 +3,7 @@
 #include <netinet/in.h>
 #include <arpa/inet.h>
 #include <netdb.h>
+#include <cstring>
 #include <iostream>
 
 int main(int argc, char *argv[]) {
